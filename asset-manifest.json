@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RachanaSonu/react_real_estate.git/static/css/main.e93b75c5.css",
+    "main.js": "/RachanaSonu/react_real_estate.git/static/js/main.2dd3243b.js",
+    "static/js/787.db0707f6.chunk.js": "/RachanaSonu/react_real_estate.git/static/js/787.db0707f6.chunk.js",
+    "static/media/h3.jpg": "/RachanaSonu/react_real_estate.git/static/media/h3.6b9d6329f475524aff7d.jpg",
+    "static/media/aa.avif": "/RachanaSonu/react_real_estate.git/static/media/aa.afdf3ac4816bca7b98e3.avif",
+    "static/media/pricing.jpg": "/RachanaSonu/react_real_estate.git/static/media/pricing.8cf8783b08cfca3cca87.jpg",
+    "static/media/about.avif": "/RachanaSonu/react_real_estate.git/static/media/about.cfea7cdf5c3fbced276d.avif",
+    "static/media/sss.avif": "/RachanaSonu/react_real_estate.git/static/media/sss.6c25382a998697c00529.avif",
+    "static/media/pricing..avif": "/RachanaSonu/react_real_estate.git/static/media/pricing..d99a5700b1340bf8155d.avif",
+    "index.html": "/RachanaSonu/react_real_estate.git/index.html",
+    "main.e93b75c5.css.map": "/RachanaSonu/react_real_estate.git/static/css/main.e93b75c5.css.map",
+    "main.2dd3243b.js.map": "/RachanaSonu/react_real_estate.git/static/js/main.2dd3243b.js.map",
+    "787.db0707f6.chunk.js.map": "/RachanaSonu/react_real_estate.git/static/js/787.db0707f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93b75c5.css",
+    "static/js/main.2dd3243b.js"
+  ]
+}
