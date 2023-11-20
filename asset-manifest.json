@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_real_estate/static/css/main.5b6653ee.css",
-    "main.js": "/react_real_estate/static/js/main.ea50b41e.js",
+    "main.js": "/react_real_estate/static/js/main.c0aebc1f.js",
     "static/js/787.db0707f6.chunk.js": "/react_real_estate/static/js/787.db0707f6.chunk.js",
     "static/media/h3.jpg": "/react_real_estate/static/media/h3.6b9d6329f475524aff7d.jpg",
     "static/media/aa.avif": "/react_real_estate/static/media/aa.afdf3ac4816bca7b98e3.avif",
@@ -11,11 +11,11 @@
     "static/media/pricing..avif": "/react_real_estate/static/media/pricing..d99a5700b1340bf8155d.avif",
     "index.html": "/react_real_estate/index.html",
     "main.5b6653ee.css.map": "/react_real_estate/static/css/main.5b6653ee.css.map",
-    "main.ea50b41e.js.map": "/react_real_estate/static/js/main.ea50b41e.js.map",
+    "main.c0aebc1f.js.map": "/react_real_estate/static/js/main.c0aebc1f.js.map",
     "787.db0707f6.chunk.js.map": "/react_real_estate/static/js/787.db0707f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b6653ee.css",
-    "static/js/main.ea50b41e.js"
+    "static/js/main.c0aebc1f.js"
   ]
 }
