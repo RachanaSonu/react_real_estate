@@ -16,7 +16,7 @@ const Team = () => {
                 <button className='btn3'>{val.list} Listings</button>
                 <div className='details'>
                   <div className='img'>
-                    <img src={val.cover} alt='' />
+                    <img src={process.env.PUBLIC_URL + '/' + val.cover} alt='' />
                     <i className='fa-solid fa-circle-check'></i>
                   </div>
                   <i className='fa fa-location-dot'></i>

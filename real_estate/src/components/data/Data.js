@@ -217,7 +217,7 @@ export const team = [
   },
   {
     list: "38",
-    cover: "../images/customer/team-6.jpg",
+    cover: "./images/customer/team-6.jpg",
     address: "Kerala",
     name: "Adam K. Jollio",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
