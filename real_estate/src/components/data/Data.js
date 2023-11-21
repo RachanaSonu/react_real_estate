@@ -212,7 +212,7 @@ export const team = [
     list: "42",
     cover: "./images/customer/team-5.jpg",
     address: "Hassan",
-    name: "Michael P. Grimaldo",
+    name: "Roman P. Shan",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
