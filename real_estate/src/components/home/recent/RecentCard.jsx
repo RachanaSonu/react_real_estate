@@ -10,7 +10,7 @@ const RecentCard = () => {
           return (
             <div className='box shadow' key={index}>
               <div className='img'>
-                <img src={cover} alt='' style={{ maxWidth: "100%", height: "200px" }}/>
+                <img src={process.env.PUBLIC_URL + cover} alt='' style={{ maxWidth: "100%", height: "200px" }}/>
               </div>
               <div className='text'>
                 <div className='category flex'>
