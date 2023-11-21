@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/RachanaSonu/react_real_estate/static/css/main.5bfcc5e5.css",
-    "main.js": "/RachanaSonu/react_real_estate/static/js/main.cf17cb2f.js",
-    "static/js/787.db0707f6.chunk.js": "/RachanaSonu/react_real_estate/static/js/787.db0707f6.chunk.js",
-    "static/media/h3.jpg": "/RachanaSonu/react_real_estate/static/media/h3.6b9d6329f475524aff7d.jpg",
-    "static/media/rup.avif": "/RachanaSonu/react_real_estate/static/media/rup.6a568e79d1aa2e1e460b.avif",
-    "static/media/aa.avif": "/RachanaSonu/react_real_estate/static/media/aa.afdf3ac4816bca7b98e3.avif",
-    "static/media/about.avif": "/RachanaSonu/react_real_estate/static/media/about.cfea7cdf5c3fbced276d.avif",
-    "static/media/sss.avif": "/RachanaSonu/react_real_estate/static/media/sss.6c25382a998697c00529.avif",
-    "static/media/pricing..avif": "/RachanaSonu/react_real_estate/static/media/pricing..d99a5700b1340bf8155d.avif",
-    "index.html": "/RachanaSonu/react_real_estate/index.html",
-    "main.5bfcc5e5.css.map": "/RachanaSonu/react_real_estate/static/css/main.5bfcc5e5.css.map",
-    "main.cf17cb2f.js.map": "/RachanaSonu/react_real_estate/static/js/main.cf17cb2f.js.map",
-    "787.db0707f6.chunk.js.map": "/RachanaSonu/react_real_estate/static/js/787.db0707f6.chunk.js.map"
+    "main.css": "/react_real_estate/static/css/main.5b6653ee.css",
+    "main.js": "/react_real_estate/static/js/main.534e32be.js",
+    "static/js/787.db0707f6.chunk.js": "/react_real_estate/static/js/787.db0707f6.chunk.js",
+    "static/media/h3.jpg": "/react_real_estate/static/media/h3.6b9d6329f475524aff7d.jpg",
+    "static/media/rup.avif": "/react_real_estate/static/media/rup.6a568e79d1aa2e1e460b.avif",
+    "static/media/aa.avif": "/react_real_estate/static/media/aa.afdf3ac4816bca7b98e3.avif",
+    "static/media/about.avif": "/react_real_estate/static/media/about.cfea7cdf5c3fbced276d.avif",
+    "static/media/sss.avif": "/react_real_estate/static/media/sss.6c25382a998697c00529.avif",
+    "static/media/pricing..avif": "/react_real_estate/static/media/pricing..d99a5700b1340bf8155d.avif",
+    "index.html": "/react_real_estate/index.html",
+    "main.5b6653ee.css.map": "/react_real_estate/static/css/main.5b6653ee.css.map",
+    "main.534e32be.js.map": "/react_real_estate/static/js/main.534e32be.js.map",
+    "787.db0707f6.chunk.js.map": "/react_real_estate/static/js/787.db0707f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bfcc5e5.css",
-    "static/js/main.cf17cb2f.js"
+    "static/css/main.5b6653ee.css",
+    "static/js/main.534e32be.js"
   ]
 }
